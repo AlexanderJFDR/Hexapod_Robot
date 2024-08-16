@@ -1,0 +1,13 @@
+{
+  "shell_port": 57576,
+  "iopub_port": 57577,
+  "stdin_port": 57578,
+  "control_port": 57580,
+  "hb_port": 57579,
+  "ip": "127.0.0.1",
+  "key": "d96bcbba-ea518f8a5a5e9aa3e17c5c6f",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "deepxde-pinn",
+  "jupyter_session": "E:\\BaiduNetdiskDownload\\\u5434\u6069\u8fbe\u6df1\u5ea6\u5b66\u4e60\u4f5c\u4e1a\\Untitled.ipynb"
+}

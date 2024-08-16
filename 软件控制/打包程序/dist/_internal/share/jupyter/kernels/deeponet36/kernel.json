@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "E:\\anaconda\\envs\\DeepONet36\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "DeepONet36",
+ "language": "python"
+}

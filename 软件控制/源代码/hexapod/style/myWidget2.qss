@@ -1,0 +1,36 @@
+QWidget#widget{
+	background-color: rgb(200,200,200);
+}
+QPushButton {
+    background-color: rgb(220,220,220);
+    border: 2px solid rgb(200,200,200);
+    border-radius: 5px;
+    padding: 1px;
+	width: 50px;
+}
+QPushButton:hover {
+    background-color: rgb(200,200,200);
+}
+QPushButton:pressed {
+    background-color: rgb(180,180,180);
+}
+QFrame#frame{
+	background-color: rgb(220,220,220);
+	border: 4px solid rgb(255,255,255);
+	border-radius: 5px;
+}
+QFrame#frame_2{
+	background-color: rgb(255,255,255);
+	border-radius: 5px;
+}
+QLabel#label_2,label_11 {
+	background-color: rgb(255,255,255);
+}
+QDoubleSpinBox{
+	color: rgb(0,0,0);
+	background-color: rgb(255,255,255);
+}
+QDoubleSpinBox:hover
+{
+    background-color:rgb(200,200,200);
+}

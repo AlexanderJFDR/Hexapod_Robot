@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "E:\\anaconda\\envs\\DeepXDE-and-PINN-main\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "py3.8",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

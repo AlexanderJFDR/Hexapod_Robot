@@ -1,0 +1,13 @@
+{
+  "shell_port": 49225,
+  "iopub_port": 49226,
+  "stdin_port": 49227,
+  "control_port": 49229,
+  "hb_port": 49228,
+  "ip": "127.0.0.1",
+  "key": "be871365-560fcd2be443eb99500dfc1f",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "E:\\BaiduNetdiskDownload\\\u5434\u6069\u8fbe\u6df1\u5ea6\u5b66\u4e60\u4f5c\u4e1a\\DeepONet_DR.ipynb"
+}

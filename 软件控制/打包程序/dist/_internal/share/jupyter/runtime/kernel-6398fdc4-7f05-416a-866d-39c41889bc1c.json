@@ -1,0 +1,13 @@
+{
+  "shell_port": 57330,
+  "iopub_port": 57331,
+  "stdin_port": 57332,
+  "control_port": 57334,
+  "hb_port": 57333,
+  "ip": "127.0.0.1",
+  "key": "da4baa05-b1e421534fce81054e5f3d87",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "E:\\BaiduNetdiskDownload\\\u5434\u6069\u8fbe\u6df1\u5ea6\u5b66\u4e60\u4f5c\u4e1a\\\u5434\u6069\u8fbe\u6df1\u5ea6\u5b66\u4e60\u4f5c\u4e1a\\02.\u6539\u5584\u6df1\u5c42\u795e\u7ecf\u7f51\u7edc\uff1a\u8d85\u53c2\u6570\u8c03\u8bd5\u3001\u6b63\u5219\u5316\u4ee5\u53ca\u4f18\u5316\\2.\u7b2c\u4e8c\u5468 \u4f18\u5316\u7b97\u6cd5\\\u7f16\u7a0b\u4f5c\u4e1a\\Optimization+methods.ipynb"
+}

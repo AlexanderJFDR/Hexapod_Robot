@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 15928,
+  "port": 8889,
+  "root_dir": "E:\\jupyter_notebook_programs\\DeepXDE-and-PINN-main",
+  "secure": false,
+  "sock": "",
+  "token": "c52d155c20f8014eabf2fc85836eac95c13396ecd0508984",
+  "url": "http://localhost:8889/",
+  "version": "2.14.1"
+}

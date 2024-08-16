@@ -1,0 +1,13 @@
+{
+  "shell_port": 54559,
+  "iopub_port": 54560,
+  "stdin_port": 54561,
+  "control_port": 54563,
+  "hb_port": 54562,
+  "ip": "127.0.0.1",
+  "key": "221dbb2a-bc193273645c75407ab664fa",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "deepxde-pinn",
+  "jupyter_session": "E:\\jupyter_notebook_programs\\DeepXDE-and-PINN-main\\DeepXDE-and-PINN-main\\1\u73af\u5883\u914d\u7f6e.ipynb"
+}

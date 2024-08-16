@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 15180,
+  "port": 8888,
+  "root_dir": "E:\\BaiduNetdiskDownload\\\u5434\u6069\u8fbe\u6df1\u5ea6\u5b66\u4e60\u4f5c\u4e1a",
+  "secure": false,
+  "sock": "",
+  "token": "fe0221a12bdaab04245105c091f7d7d08732c05f7c6df33c",
+  "url": "http://localhost:8888/",
+  "version": "2.14.1"
+}
