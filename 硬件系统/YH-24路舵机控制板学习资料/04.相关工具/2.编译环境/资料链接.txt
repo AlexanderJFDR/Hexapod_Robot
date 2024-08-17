@@ -1,0 +1,3 @@
+51编译环境下载地址：https://pan.baidu.com/s/1VO0MyDG9-c0cdEcDQp5aVg?pwd=oqy7
+stm32编译环境下载地址：https://pan.baidu.com/s/1vkEp6bRQPEHdKu-mq2R9fw?pwd=t73x
+arduino编译环境下载地址：https://pan.baidu.com/s/1u9D_dB_Bix0dT7B_zFvQlg?pwd=u870
